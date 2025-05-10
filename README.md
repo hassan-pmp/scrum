@@ -2,7 +2,7 @@
 ## TODO
 ## Milestone
 * **Scrum Master Certification I** ✅
-* **Scrm Master Certificatin II**
+* **Scrm Master II Certificatin**
 * **Scrum Master III Cerification**
 * **Official Scrum Master Trainer**
 * Prepration for publishing an __Important__ Book
